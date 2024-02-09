@@ -1,20 +1,20 @@
 :root {
     /* Rose Pine Color Palette - Updated from .pinkrose class */
-    --base: #191724; /* sidebar-bg */
-    --surface: #1f1d2e; /* bg */
-    --overlay: #26233a; /* theme-popup-bg */
-    --muted: #6e6a86; /* theme-popup-border */
-    --subtle: #908caa; /* sidebar-fg */
-    --text: #e0def4; /* fg */
-    --love: #eb6f92; /* sidebar-active */
-    --gold: #f6c177; /* links */
-    --rose: #ebbcba; /* inline-code-color */
-    --pine: #31748f; /* icons */
-    --foam: #9ccfd8; /* icons-hover (no direct match, using closest) */
-    --iris: #c4a7e7; /* icons-hover */
-    --highlight-low: #21202e; /* theme-hover */
-    --highlight-med: #403d52; /* sidebar-spacer */
-    --highlight-high: #524f67; /* sidebar-non-existant */
+    --base: #08211B; /* sidebar-bg */
+    --surface: #173F35; /* bg */
+    --overlay: #1F4E43; /* theme-popup-bg */
+    --muted: #408E7B; /* theme-popup-border */
+    --subtle: #82B0A5; /* sidebar-fg */
+    --text: #E9E0D2; /* fg */
+    --love: #EAA09C; /* sidebar-active */
+    --gold: #F9D193; /* links */
+    --rose: #F5CABF; /* inline-code-color */
+    --pine: #3C66C7; /* icons */
+    --foam: #8DBAED; /* icons-hover (no direct match, using closest) */
+    --iris: #A2A0F6; /* icons-hover */
+    --highlight-low: #202E2B; /* theme-hover */
+    --highlight-med: #3D5252; /* sidebar-spacer */
+    --highlight-high: #4F6766; /* sidebar-non-existant */
 }
 
 .theme-dark {
